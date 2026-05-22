@@ -1,0 +1,49 @@
+{
+  "id": "com.minigolf.pro.v1",
+  "name": "Mini Golf Pro",
+  "short_name": "MiniGolf",
+  "description": "A professional mini golf game with multiple levels and physics.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#064e3b",
+  "theme_color": "#10b981",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/512/golf-ball.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://img.icons8.com/color/192/golf-ball.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/golf-ball.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://img.icons8.com/color/1000/golf-ball.png",
+      "sizes": "1000x1000",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Mini Golf Gameplay"
+    },
+    {
+      "src": "https://img.icons8.com/color/1000/golf-ball.png",
+      "sizes": "1000x1000",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Mini Golf Gameplay"
+    }
+  ]
+}
